@@ -1,0 +1,11 @@
+ -----------------------------------------------------------------------
+ Alphanumeric input can be upper or lower case. Numeric data input can
+ be integer or real format. A carriage return provides the default
+ response which is given in parentheses (where appropriate).
+
+ This program will calculate k-ratios given a set of film compositions
+ and thicknesses, or, it will calculate film compositions and
+ thicknesses from a set of experimental k-ratios.  Bulk systems can also
+ be handled. An element in a layer can be analyzed by stoichiometry.
+ An element can be analyzed by difference with the bulk model.
+ ---------------------------------------------------------------------

@@ -1,0 +1,22 @@
+# global stuff
+*~
+
+# Windows stuff
+Thumbs.db
+
+# Mac Stuff
+.DS_Store
+
+# R stuff
+# N.B. do .Rdata on a dir by dir basis...
+.Rproj.user
+.Rhistory
+
+# For this module
+Readme.html
+
+src/*.o
+
+
+
+

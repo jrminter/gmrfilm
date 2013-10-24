@@ -1,0 +1,16 @@
+ ------------------------------------------------------------------------
+ If an element is in more than one layer it normally cannot be analyzed
+ except by stoichiometry because the apportionment of x-rays among the
+ layers is not known a priori.  The composition of the element in one of
+ the layers can be determined, however, if its composition is fixed in
+ the remaining layers.  The calculation then proceeds iteratively by
+ forcing the sum of the calculated k-ratios of that particular element
+ in all layers to equal the experimental k-ratio.'
+
+ To invoke this option, use the switch "m" (e.g. FeKa,m) for the element
+ in the layer for which you want the composition to be calculated if you
+ are using a pure element standard. Use the switch "n" (e.g. O Ka,n) if
+ you are using a compound standard.  For the other layers where the
+ element is present the switch "s" (stoichiometry) must be used or the
+ composition of that layer must be fixed.
+ ------------------------------------------------------------------------

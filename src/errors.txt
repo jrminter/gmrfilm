@@ -1,0 +1,6 @@
+
+CHARFDTA.o:CHARFDTA.FOR:(.text+0x44f): undefined reference to `absionrt_'
+CONTFLR.o:CONTFLR.FOR:(.text+0x5f6): undefined reference to `absionrt_'
+GETFNAME.o:GETFNAME.FOR:(.text+0x26): undefined reference to `gettim_'
+GETFNAME.o:GETFNAME.FOR:(.text+0x3f): undefined reference to `getdat_'
+TITL.o:TITL.FOR:(.text+0x18d): undefined reference to `getdat_'

@@ -1,0 +1,11 @@
+Fchar and Fcont: characteristic x-ray and continuum x-ray fluorescence
+factors, respectively.  Defined as: (kratio calculated with char.(cont.)
+fluorescence contributions minus kratio calculated without char.(cont.)
+fluorescence contribution divided by the kratio calculated with
+char.(cont.) fluorescence contributions.  This can be understood as the
+theoretical % error added to the analysis if characteristic (or
+continuum) x-ray fluorescence contributions are ignored.  If a compound
+standard is used for the element, the factors Fchar and Fcont are
+calculated with respect to the compound standard k-factor. A negative
+factor indicates stronger fluorescence in the standard; a positive factor
+indicates stronger fluorescence in the specimen.

@@ -1,0 +1,23 @@
+ ----------------------------------------------------------------------
+ Enter all element and x-ray data in format ELXRn,s.
+ Analytical lines supported: Ka, Kb, La, Lb, Lb2, Lb3, Lb4, Lg1, Lg2,
+ Lg3, Ma, Mb, Mg.  La and Lb can also be input as La1 and Lb1.
+
+ Examples:    CuKb      b ka ,c      NDLA ,d      PtLb3,n
+ (An element determined by stoichiometry should be the last one entered
+ for the particular layer if this is a film (non-bulk) system.)
+
+ -----Switches:s,c,d,m,n------
+ s is an optional switch: s=s : This element determined by stoichiometry.
+                          s=c :   "    "    analyzed with a compound std.
+ Bulk analysis only --->  s=d :   "    "    analyzed by difference.
+
+ If an element is present in more than one layer you may want to
+ calculate its composition in one of the layers from the total
+ experimental k-ratio for the element.
+
+ For this option use switch s=m or n:   (s=m --> pure element standard
+                                         s=n --> compound standard).
+ Type he(lp) NOW for more information on this option.
+----------------------------------------------------------------------
+
