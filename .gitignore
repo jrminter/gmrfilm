@@ -15,7 +15,9 @@ Thumbs.db
 # For this module
 Readme.html
 
+# for builds in the src directory
 src/*.o
+src/grmfilm.exe
 
 # Paul Carpenter's src modified by JRM for mac
 pc-gmf-src-mod-mac/*.o
