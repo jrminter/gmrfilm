@@ -17,6 +17,11 @@ Readme.html
 
 src/*.o
 
+# Paul Carpenter's src modified by JRM for mac
+pc-gmf-src-mod-mac/*.o
+pc-gmf-src-mod-mac/gmr
+
+
 
 
 
